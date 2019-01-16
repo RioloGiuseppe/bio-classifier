@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "allowJs": false,
+        "declaration": false,
+        "sourceMap": true,
+        "outDir": "./build",
+        "noImplicitAny": false,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "pretty": false,
+        "lib": [
+            "es2017"
+        ],
+        "extendedDiagnostics": true,
+        "skipLibCheck": true
+    },
+    "compileOnSave": true,
+    "include": [
+        "./src/**/*"
+    ]
+}
