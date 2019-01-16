@@ -476,6 +476,7 @@ package-lock.json
 data/dataset.txt
 data/files
 
+!classifier/.settings
 classifier/Output/**/*
 
 
