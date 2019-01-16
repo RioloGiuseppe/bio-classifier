@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>net.riolabs</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>TGCAClassifier</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>demo</name>
+	<name>TGCAClassifier</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>

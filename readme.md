@@ -24,3 +24,11 @@ node ./build/index.js
 ```sh
 python adapter.py
 ```
+
+## Run Spark (LIBSVM)
+
+```sh
+cd classifier
+mvn clean install
+spark-submit --driver-memory 32g --class "net.riolabs.TGCAClassifier" .\target\TGCAClassifier-1.0.0.jar
+```

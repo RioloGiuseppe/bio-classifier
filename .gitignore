@@ -478,5 +478,4 @@ data/files
 
 !classifier/.settings
 classifier/Output/**/*
-
-
+data/classificationModel
